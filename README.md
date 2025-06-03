@@ -1,31 +1,19 @@
-# Mapping the new Grokking Coding Interview Patterns course to LeetCode
+## Warmup (06/02/25)
+- [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
-## Personalized Mock Interview
-You can use this custom GPT to do a sample interview.
+- [X] [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
 
-🚀 **[Start Your Mock Interview Now!](https://chat.openai.com/g/g-ngDadz7qM-mock-interviewer)** - Improve your interview skills with personalized AI feedback! 🤖 (Requires ChatGPT Plus)
-
-## Personalized Interview Mentor
-This custom GPT is useful to teach you about different concepts.
-
-🚀 **[Software Interview Mentor](https://chat.openai.com/g/g-n76b8bWJo-software-interview-mentor)** - Learn about different concepts! 🤖 (Requires ChatGPT Plus)
-
-Some sample tutorial materials generated using this custom GPT are available here: [Tutorials](https://navidre.github.io/new_grokking_to_leetcode/tutorial/)
-
-## System Design Maestro
-🚀 **[System Design Maestro](https://chat.openai.com/g/g-UgkUg8KV6-system-design-maestro)** - Custom GPT for practical System Design! 🤖 (Requires ChatGPT Plus)
-
-## Repository Information
-
-Pull requests and issues are welcome!
-
-[Mapping Website](https://navidre.github.io/new_grokking_to_leetcode/) | [Educative Signup Link](https://educative.io/signup?referralCode=nrezaeis-xVMKDGxYl5P) | [Course Link](https://www.educative.io/courses/grokking-coding-interview-patterns-python?referralCode=nrezaeis-xVMKDGxYl5P)
-
-It is helpful to have all the progress and code in one place. Some prefer this place to be LeetCode. Grokking the Coding Interview has been a good course in the learning and problem-solving process. There already exist different gists mapping the older Grokking to equivalent Leetcode problems, such as [this gist](https://gist.github.com/tykurtz/3548a31f673588c05c89f9ca42067bc4). Educative introduced a new version of this course in 2022. This repository can be helpful for people who want to have a map from the new 2022 grokking course to Leetcode. This is a community effort, so pull requests and issues are appreciated!
-
-Tracking checkboxes can be used by forking this repository and marking an X inside the appropriate brackets. Here is an example:
-- [ ] Unsolved
-- [X] Solved
+- [X] [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) note: python strings are immutable (leads to o(n^2) time). can use res = [] then .join() or two pointers instead
+      
+- [X] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+      
+- [X] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+      
+- [X] [Shortest Word Distance](https://leetcode.com/problems/shortest-word-distance/) note: use two indices for word1/2, then abs()
+      
+- [X] [Number of Good Pairs](https://leetcode.com/problems/shortest-word-distance/) note: hashmap for char count
+      
+- [X] [Sqrt(x)](https://leetcode.com/problems/sqrtx/) note: o(logx) soln, think bin search ending case and what to return (l, m, r) 
 
 ## Sliding Window
 - [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
