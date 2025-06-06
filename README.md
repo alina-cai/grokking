@@ -13,7 +13,22 @@
       
 - [X] [Number of Good Pairs](https://leetcode.com/problems/shortest-word-distance/) note: hashmap for char count
       
-- [X] [Sqrt(x)](https://leetcode.com/problems/sqrtx/) note: o(logx) soln, think bin search ending case and what to return (l, m, r) 
+- [X] [Sqrt(x)](https://leetcode.com/problems/sqrtx/) note: o(logx) soln, think bin search ending case and what to return (l, m, r)
+
+## Two Pointers
+- [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+
+- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+
+- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
+
+- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+
+- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/) 
+
+- [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+
+- [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
 ## Sliding Window
 - [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
@@ -31,19 +46,6 @@
 - [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-
-## Two Pointers
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
-
-- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
-
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
-
-- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/) 
-
-- [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
-
-- [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
 
 ## Fast and Slow Pointers
 
