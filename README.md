@@ -15,20 +15,24 @@
       
 - [X] [Sqrt(x)](https://leetcode.com/problems/sqrtx/) note: o(logx) soln, think bin search ending case and what to return (l, m, r)
 
-## Two Pointers
-- [ ] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+## Two Pointers (06/06/25)
+- [X] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+      
+- [X] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) note: use a deque
+      
+- [X] [3Sum](https://leetcode.com/problems/3sum/) 
 
-- [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
+- [X] [3Sum Closest](https://leetcode.com/problems/3sum-closest/) note: update res and move pointers separately
 
-- [ ] [Sum of Three Values](https://leetcode.com/problems/3sum-closest/)
+- [X] [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) note: think abt how to update res
 
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [X] [Sort Colors](‎https://leetcode.com/problems/sort-colors/) note: m=0
 
-- [ ] [Sort Colors](https://leetcode.com/problems/sort-colors/) 
+- [X] [4Sum](https://leetcode.com/problems/4sum/)
 
-- [ ] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/)
+- [X] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 
-- [ ] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/)
+- [X] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) note: moev inwards, deal with min/max vals, move outwards
 
 ## Sliding Window
 - [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
