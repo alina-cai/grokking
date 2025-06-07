@@ -1,4 +1,5 @@
 ## Warmup (06/02/25)
+
 - [X] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 
 - [X] [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/)
@@ -16,6 +17,7 @@
 - [X] [Sqrt(x)](https://leetcode.com/problems/sqrtx/) note: o(logx) soln, think bin search ending case and what to return (l, m, r)
 
 ## Two Pointers (06/06/25)
+
 - [X] [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
       
 - [X] [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) note: use a deque
@@ -34,6 +36,22 @@
 
 - [X] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) note: move inwards, deal with min/max vals, move outwards
 
+## Fast and Slow Pointers (06/06/25)
+
+- [X] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
+
+- [X] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
+
+- [X] [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) note: parallel move to find cycle start
+
+- [X] [Happy Number](https://leetcode.com/problems/happy-number/) note: helper, check meeting point=1
+
+- [X] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) note: middle, reverse, step
+
+- [X] [Reorder List](https://leetcode.com/problems/reorder-list/) note: middle, reverse, merge
+
+- [X] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) note: use % for circularity, check directions, mark path as visited
+
 ## Sliding Window
 - [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
 
@@ -50,20 +68,6 @@
 - [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
-
-## Fast and Slow Pointers
-
-- [ ] [Happy Number](https://leetcode.com/problems/happy-number/)
-
-- [ ] [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
-
-- [ ] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/)
-
-- [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-
-- [ ] [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/)
-
-- [ ] [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 
 ## Merge Intervals
 
