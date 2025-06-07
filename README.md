@@ -32,7 +32,7 @@
 
 - [X] [Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)
 
-- [X] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) note: moev inwards, deal with min/max vals, move outwards
+- [X] [Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) note: move inwards, deal with min/max vals, move outwards
 
 ## Sliding Window
 - [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
