@@ -76,19 +76,21 @@
 
 - [X] [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) note: add check for k<=1 
 
-## Merge Intervals
+## Merge Intervals (06/07/25)
 
-- [ ] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [X] [Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 
-- [ ] [Insert Interval](https://leetcode.com/problems/insert-interval/)
+- [X] [Insert Interval](https://leetcode.com/problems/insert-interval/) note: for loops don't work
 
-- [ ] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/)
+- [X] [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) note: only add to res if start<=end
 
-- [ ] [Employee Free Time](https://leetcode.com/problems/employee-free-time/)
+- [X] [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)
 
-- [ ] [Task Scheduler](https://leetcode.com/problems/task-scheduler/)
+- [X] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/) note: heap soln is straightforward
 
-- [ ] [Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)
+- [X] [Task Scheduler](https://leetcode.com/problems/task-scheduler/) note: count max freq, calculate min time, take max of min time and tasks
+      
+- [X] [Employee Free Time](https://leetcode.com/problems/employee-free-time/) note: merge intervals, find the gaps
 
 ## In-place Reversal of a Linked List
 
