@@ -52,22 +52,29 @@
 
 - [X] [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/) note: use % for circularity, check directions, mark path as visited
 
-## Sliding Window
-- [ ] [Find Maximum in Sliding Window](https://leetcode.com/problems/sliding-window-maximum/)
+## Sliding Window (06/07/25)
 
-- [ ] [Minimum Window Subsequence](https://leetcode.com/problems/minimum-window-subsequence/)
+- [X] [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/)
 
-- [ ] [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/)
+- [X] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
-- [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
+- [X] [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/)
 
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [X] [Fruits Into Baskets](https://leetcode.com/problems/fruit-into-baskets/)
 
-- [ ] [Longest Substring without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+- [X] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 
-- [ ] [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- [X] [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/)
 
-- [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+- [X] [Permutation in String](https://leetcode.com/problems/permutation-in-string/)
+
+- [X] [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/)
+      
+- [X] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) note: need vs have
+
+- [X] [Substring with Concatentation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) note: track word count with word_len offset
+
+- [X] [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/) note: add check for k<=1 
 
 ## Merge Intervals
 
