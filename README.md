@@ -92,6 +92,22 @@
       
 - [X] [Employee Free Time](https://leetcode.com/problems/employee-free-time/) note: merge intervals, find the gaps
 
+## Cyclic Sort (06/08/25)
+
+- [X] [Missing Number](https://leetcode.com/problems/missing-number/) note: xor, gauss solns
+      
+- [X] [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)
+
+- [X] [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) note: floyds cycle detection
+
+- [X] [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)
+
+- [X] [Set Mismatch](https://leetcode.com/problems/set-mismatch/)
+
+- [X] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) 
+
+- [X] [Find the First K Missing Positive Numbers](https://leetcode.com/problems/kth-missing-positive-number/)
+
 ## In-place Reversal of a Linked List
 
 - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
@@ -237,18 +253,6 @@
 - [ ] [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
 
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-
-## Cyclic Sort
-
-- [ ] [Missing Number](https://leetcode.com/problems/missing-number/)
-
-- [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
-
-- [ ] [Find The Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)
-
-- [ ] [Find the Corrupt Pair](https://leetcode.com/problems/set-mismatch/)?
-
-- [ ] [Find the First K Missing Positive Numbers](https://leetcode.com/problems/kth-missing-positive-number/)
 
 ## Topological Sort
 
