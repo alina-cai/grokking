@@ -108,21 +108,15 @@
 
 - [X] [Find the First K Missing Positive Numbers](https://leetcode.com/problems/kth-missing-positive-number/)
 
-## In-place Reversal of a Linked List
+## In-place Reversal of a Linked List (06/15/25)
 
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [X] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) note: try to visualize
 
-- [ ] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)
+- [X] [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) note: head insertion
 
-- [ ] [Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)
-
-- [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
-
-- [ ] [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/)
-
-- [ ] [Reverse Nodes In Even Length Groups](https://leetcode.com/problems/reverse-nodes-in-even-length-groups/)
-
-- [ ] [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/)
+- [X] [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) note: get_kth(), then reverse normally, reconnect group
+      
+- [X] [Rotate List](https://leetcode.com/problems/rotate-list/) note: base case, check length, make circular, calculate new tail, break circular
 
 ## Two Heaps
 
