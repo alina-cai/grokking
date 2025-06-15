@@ -118,6 +118,18 @@
       
 - [X] [Rotate List](https://leetcode.com/problems/rotate-list/) note: base case, check length, make circular, calculate new tail, break circular
 
+## Stacks
+
+- [X] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+
+- [X] [Reverse String](https://leetcode.com/problems/reverse-string/)
+
+- [X] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) note: use hashmap to store next greater element of nums2, then fill with -1s
+
+- [X] [Sort an Array](https://leetcode.com/problems/sort-an-array/)
+
+- [X] [Simplify Path](https://leetcode.com/problems/simplify-path/) note: meta xd
+
 ## Two Heaps
 
 - [ ] [Maximize Capital](https://leetcode.com/problems/ipo/)
@@ -271,22 +283,6 @@
 - [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 
 - [ ] [Where Will the Ball Fall](https://leetcode.com/problems/where-will-the-ball-fall/)
-
-## Stacks
-
-- [ ] [Basic Calculator](https://leetcode.com/problems/basic-calculator/)
-
-- [ ] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
-
-- [ ] [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
-
-- [ ] [Exclusive Execution Time of Functions](https://leetcode.com/problems/exclusive-time-of-functions/)
-
-- [ ] [Flatten Nested List Iterator](https://leetcode.com/problems/flatten-nested-list-iterator/)
-
-- [ ] [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)
-
-- [ ] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
 ## Graphs
 
