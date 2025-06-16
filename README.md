@@ -118,7 +118,7 @@
       
 - [X] [Rotate List](https://leetcode.com/problems/rotate-list/) note: base case, check length, make circular, calculate new tail, break circular
 
-## Stacks
+## Stacks (06/14/25)
 
 - [X] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 
@@ -130,7 +130,7 @@
 
 - [X] [Simplify Path](https://leetcode.com/problems/simplify-path/) note: meta xd
 
-## Monotonic Stacks
+## Monotonic Stacks (06/15/25)
 
 - [X] [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) note: recreate linked list
 
