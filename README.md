@@ -130,6 +130,22 @@
 
 - [X] [Simplify Path](https://leetcode.com/problems/simplify-path/) note: meta xd
 
+## Monotonic Stacks
+
+- [X] [Remove Nodes From Linked List](https://leetcode.com/problems/remove-nodes-from-linked-list/) note: recreate linked list
+
+- [X] [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+
+- [X] [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/)
+
+- [X] [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) note: have separate res, stack arrays
+
+- [X] [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/) note: store [ch, count] in stack
+
+- [X] [Sum of Subarray Minimums](https://leetcode.com/problems/sum-of-subarray-minimums/) note: get ple, nle for each element then do arr * ple * nle
+
+- [X] [Remove K Digits](https://leetcode.com/problems/remove-k-digits/) note: pop remaining k after iterating, strip leading 0s 
+
 ## Two Heaps
 
 - [ ] [Maximize Capital](https://leetcode.com/problems/ipo/)
