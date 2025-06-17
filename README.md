@@ -160,21 +160,21 @@
 
 ## Level Order Traversal Pattern (06/16/25)
 
-- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [X] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) note: standard bfs
 
-- [ ] [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+- [X] [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 
-- [ ] [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+- [X] [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
 
-- [ ] [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+- [X] [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) note: normalize index,  res=max(res,i+1)
 
-- [ ] [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
+- [X] [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
 
-- [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [X] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) note: use zigzag=1 or -1
 
-- [ ] [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)
+- [X] [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)
 
-- [ ] [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
+- [X] [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
 
 ## Tree Breadth First Search
 
