@@ -158,7 +158,23 @@
 
 - [X] [Ransom Note](https://leetcode.com/problems/ransom-note/)
 
-## Level Order Traversal Pattern
+## Level Order Traversal Pattern (06/16/25)
+
+- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+- [ ] [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+
+- [ ] [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/)
+
+- [ ] [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/)
+
+- [ ] [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/)
+
+- [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+- [ ] [Even Odd Tree](https://leetcode.com/problems/even-odd-tree/)
+
+- [ ] [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
 
 ## Tree Breadth First Search
 
