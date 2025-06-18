@@ -27,8 +27,8 @@
 - [X] [3Sum Closest](https://leetcode.com/problems/3sum-closest/) note: update res and move pointers separately
 
 - [X] [3Sum Smaller](https://leetcode.com/problems/3sum-smaller/) note: think abt how to update res
-  
-- [X] [Sort Colors](‎https://leetcode.com/problems/sort-colors/description) note: m=0
+      
+- [ ] [Sort Colors](‎https://leetcode.com/problems/sort-colors/) note: m=0
 
 - [X] [4Sum](https://leetcode.com/problems/4sum/)
 
