@@ -178,7 +178,21 @@
 
 ## Tree Breadth First Search
 
+- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+
+- [ ] [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+
+- [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+
+- [ ] [Averages of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+
+- [ ] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+
 ## Tree Depth First Search
+
+- [X] [Path Sum](https://leetcode.com/problems/path-sum/)
+
+- [ ] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
 
 ## Graphs
 
