@@ -176,23 +176,39 @@
 
 - [X] [N-ary Tree Level Order Traversal](https://leetcode.com/problems/n-ary-tree-level-order-traversal/)
 
-## Tree Breadth First Search
+## Tree Breadth First Search (06/17/25)
 
-- [ ] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
+- [X] [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)
 
-- [ ] [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
+- [X] [Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/)
 
-- [ ] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
+- [X] [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)
 
-- [ ] [Averages of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
+- [X] [Averages of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/)
 
-- [ ] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+- [X] [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)
+
+- [X] [Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) note: use .next to traverse levels
+
+- [X] [Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) note: o(1) space soln
+
+- [X] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
 ## Tree Depth First Search
 
-- [X] [Path Sum](https://leetcode.com/problems/path-sum/)
+- [ ] [Path Sum](https://leetcode.com/problems/path-sum/)
 
 - [ ] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+
+- [ ] [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+
+- [ ] [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/)
+
+- [ ] [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+      
+- [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+
+- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
 
 ## Graphs
 
