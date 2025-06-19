@@ -196,9 +196,9 @@
 
 ## Tree Depth First Search
 
-- [ ] [Path Sum](https://leetcode.com/problems/path-sum/)
+- [X] [Path Sum](https://leetcode.com/problems/path-sum/)
 
-- [ ] [Path Sum II](https://leetcode.com/problems/path-sum-ii/)
+- [X] [Path Sum II](https://leetcode.com/problems/path-sum-ii/) note: keep track of path, append its deep copy, involves backtracking
 
 - [ ] [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
 
