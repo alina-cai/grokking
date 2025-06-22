@@ -194,21 +194,21 @@
 
 - [X] [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)
 
-## Tree Depth First Search
+## Tree Depth First Search (06/21/25)
 
 - [X] [Path Sum](https://leetcode.com/problems/path-sum/)
 
 - [X] [Path Sum II](https://leetcode.com/problems/path-sum-ii/) note: keep track of path, append its deep copy, involves backtracking
 
-- [ ] [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)
+- [X] [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) note: cur=cur*10+node.val
 
-- [ ] [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/)
+- [X] [Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree](https://leetcode.com/problems/check-if-a-string-is-a-valid-sequence-from-root-to-leaves-path-in-a-binary-tree/) note: track index rather than path
 
-- [ ] [Path Sum III](https://leetcode.com/problems/path-sum-iii/)
+- [X] [Path Sum III](https://leetcode.com/problems/path-sum-iii/) note: use prefix sums, cur-targetSum
       
-- [ ] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [X] [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) note: res=max(res,l+r) \n return 1 + max(l,r)
 
-- [ ] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/)
+- [X] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) note: res=max(res,node.val+l+r)
 
 ## Graphs
 
