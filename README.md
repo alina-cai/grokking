@@ -210,7 +210,7 @@
 
 - [X] [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) note: res=max(res,node.val+l+r)
 
-## Graphs
+## Graphs (06/23/25)
 
 - [X] [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) note: use visited set, standard dfs
       
@@ -223,6 +223,10 @@
 - [X] [Bus Routes](https://leetcode.com/problems/bus-routes/) note: use stops as nodes, do bfs from start stop, explore one route and find connected routes
 
 ## Island (Matrix Traversal)
+
+- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+
+- [ ] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
 
 ## Two Heaps
 
