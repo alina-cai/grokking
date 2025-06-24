@@ -212,6 +212,16 @@
 
 ## Graphs
 
+- [X] [Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) note: use visited set, standard dfs
+      
+- [X] [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) note: rmbr that a node is always connected w itself, use dfs on indices
+
+- [X] [Find Eventual Safe States](https://leetcode.com/problems/find-eventual-safe-states/) note: coloring soln to detect cycles, state=[] and mark as unvisited/visited/safe
+
+- [X] [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) note: find all indegree=0
+
+- [X] [Bus Routes](https://leetcode.com/problems/bus-routes/) note: use stops as nodes, do bfs from start stop, explore one route and find connected routes
+
 ## Island (Matrix Traversal)
 
 ## Two Heaps
