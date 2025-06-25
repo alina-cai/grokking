@@ -222,11 +222,21 @@
 
 - [X] [Bus Routes](https://leetcode.com/problems/bus-routes/) note: use stops as nodes, do bfs from start stop, explore one route and find connected routes
 
-## Island (Matrix Traversal)
+## Island (Matrix Traversal) (06/24/25)
 
-- [ ] [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+- [X] [Number of Islands](https://leetcode.com/problems/number-of-islands/) note: space complexity is o(m*n) cus of recursion depth!!
 
-- [ ] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)
+- [X] [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) note: just return 1+dfs()*4
+      
+- [X] [Flood Fill](https://leetcode.com/problems/flood-fill/) 
+
+- [X] [Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/) note: store each dfs call then aggregate
+
+- [X] [Island Perimeter](https://leetcode.com/problems/island-perimeter/) note: land cells have 4 edges, -2 if neighboring land exists
+
+- [X] [Number of Distinct Islands](https://leetcode.com/problems/number-of-distinct-islands/) note: keep shapes set, backtrack with direction (D/U/L/R)
+
+- [X] [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) note: keep track of parent row/col
 
 ## Two Heaps
 
