@@ -238,7 +238,15 @@
 
 - [X] [Detect Cycles in 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/) note: keep track of parent row/col
 
-## Two Heaps
+## Two Heaps 
+
+- [X] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) note: all nums in max_heap <= all nums in min_heap
+
+- [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) note: https://leetcode.com/problems/sliding-window-median/solutions/394302/python-clean-solution-easy-to-understand/ REVIEW!!!
+
+- [X] [IPO](https://leetcode.com/problems/ipo/) note: greedy, use one heap per capital and profits
+
+- [X] [Find Right Interval](https://leetcode.com/problems/find-right-interval/) note: binary search start times
 
 ## Subsets
 
