@@ -242,13 +242,31 @@
 
 - [X] [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) note: all nums in max_heap <= all nums in min_heap
 
-- [ ] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) note: https://leetcode.com/problems/sliding-window-median/solutions/394302/python-clean-solution-easy-to-understand/ REVIEW!!!
+- [X] [Sliding Window Median](https://leetcode.com/problems/sliding-window-median/) note: https://leetcode.com/problems/sliding-window-median/solutions/394302/python-clean-solution-easy-to-understand/ REVIEW!!! use delayed to_remove
 
 - [X] [IPO](https://leetcode.com/problems/ipo/) note: greedy, use one heap per capital and profits
 
 - [X] [Find Right Interval](https://leetcode.com/problems/find-right-interval/) note: binary search start times
 
-## Subsets
+## Subsets (06/26/25)
+
+- [X] [Subsets](https://leetcode.com/problems/subsets/)
+
+- [X] [Subsets II](https://leetcode.com/problems/subsets-ii/)
+
+- [X] [Permutations](https://leetcode.com/problems/permutations/) note: only need backtrack(cur)
+
+- [X] [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/) note: backtrack cases by alpha vs num
+
+- [X] [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) note: opened<n, then closed<opened
+
+- [X] [Generalized Abbreviation](https://leetcode.com/problems/generalized-abbreviation/) note: either add abbreviation count or add char
+
+- [X] [Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) note: divide and conquer w memoization
+
+- [X] [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) note: bottom up dp
+
+- [X] [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees/) note: recursively generate left and right subtrees, use @lru_cache(None)
 
 ## Modified Binary Search
 
