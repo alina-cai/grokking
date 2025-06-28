@@ -270,6 +270,8 @@
 
 ## Modified Binary Search
 
+- [X] [Binary Search](https://leetcode.com/problems/binary-search/)
+
 ## Bitwise XOR
 
 ## Top 'K' Elements
