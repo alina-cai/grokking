@@ -292,7 +292,15 @@
 
 - [X] [Rotate Array](https://leetcode.com/problems/rotate-array/) note: reverse entire arr, up to k, then from k to end
 
-## Bitwise XOR
+## Bitwise XOR (06/28/25)
+
+- [X] [Single Number](https://leetcode.com/problems/single-number/) note: a^0=a, a^a=0
+
+- [X] [Single Number III](https://leetcode.com/problems/single-number-iii/) note: xor, isolate rightmost bit, then partition
+
+- [X] [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) note: o(logn) soln more intuitive ngl, but o(1) is just brute force flip then shift
+
+- [X] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) note: to flip do 1-x
 
 ## Top 'K' Elements
 
