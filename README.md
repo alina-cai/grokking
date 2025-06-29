@@ -268,9 +268,29 @@
 
 - [X] [Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees/) note: recursively generate left and right subtrees, use @lru_cache(None)
 
-## Modified Binary Search
+## Modified Binary Search (06/28/25)
 
 - [X] [Binary Search](https://leetcode.com/problems/binary-search/)
+      
+- [X] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+
+- [X] [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/)
+
+- [X] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) note: do two searches
+
+- [X] [Search in a Sorted Array of Unknown Size](https://leetcode.com/problems/search-in-a-sorted-array-of-unknown-size/) note: manually increment r ptr first
+
+- [X] [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/) note: sort first, then simulation
+
+- [X] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) note: uber xd
+
+- [X] [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) note: triple bin search, careful with third since its reversed
+
+- [X] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) note: if nums[l]<=nums[m] then check if target is between them
+
+- [X] [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/) note: check for wraparound too
+
+- [X] [Rotate Array](https://leetcode.com/problems/rotate-array/) note: reverse entire arr, up to k, then from k to end
 
 ## Bitwise XOR
 
