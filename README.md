@@ -302,7 +302,31 @@
 
 - [X] [Flipping an Image](https://leetcode.com/problems/flipping-an-image/) note: to flip do 1-x
 
-## Top 'K' Elements
+## Top 'K' Elements (06/30/25)
+
+- [X] [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/)
+
+- [X] [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+
+- [X] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) note: heap or quickselect
+
+- [X] [K Closest Points to Origin](https://leetcode.com/problems/k-closest-points-to-origin/)
+
+- [X] [Minimum Cost to Connect Sticks](https://leetcode.com/problems/minimum-cost-to-connect-sticks/)
+
+- [X] [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+
+- [X] [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements/) note: bin search on k length window
+
+- [X] [Least Number of Unique Integers after K Removals](https://leetcode.com/problems/least-number-of-unique-integers-after-k-removals/) note: sort freqs, then greedy
+
+- [X] [Reorganize String](https://leetcode.com/problems/reorganize-string/) note: max heap greedy
+
+- [X] [Rearrange String k Distance Apart](https://leetcode.com/problems/rearrange-string-k-distance-apart/) note: keep track of chars in cd w a deque
+
+- [X] [Task Scheduler](https://leetcode.com/problems/task-scheduler/) note: math or do max greedy heap
+
+- [X] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) note: initialize freq, freq_group, max_freq
 
 ## K-way Merge
 
