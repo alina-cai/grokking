@@ -328,9 +328,31 @@
 
 - [X] [Maximum Frequency Stack](https://leetcode.com/problems/maximum-frequency-stack/) note: initialize freq, freq_group, max_freq
 
-## K-way Merge
+## K-way Merge (07/01/25)
 
-## Greedy Algorithms
+- [X] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
+
+- [X] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) note: while len(lists)>1: merged=[]
+
+- [X] [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) note: bin search w helper function count_leq()
+
+- [X] [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/) note: track min val of each row + max of nums using priority q + sliding window
+
+- [X] [Find K Pairs with Smallest Sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) : o(min(k,n)logk) soln, use heap with (total,i,j)
+
+## Greedy Algorithms (07/01/25)
+
+- [X] [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) note: def isPalindrome(l,r)
+
+- [X] [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain/) note: sort pairs by end
+
+- [X] [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) note: no need for stack tbh
+
+- [X] [Remove Duplicate Letters](https://leetcode.com/problems/remove-duplicate-letters/) note: make last_occurence map, use stack to keep min char that is not last occurence
+
+- [X] [Largest Palindromic Number](https://leetcode.com/problems/largest-palindromic-number/) note: build first half with even count then mid then reverse first half
+
+- [X] [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) note: calculate left, right, both
 
 ## 0/1 Knapsack (Dynamic Programming)
 
