@@ -354,7 +354,17 @@
 
 - [X] [Removing Minimum and Maximum From Array](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/) note: calculate left, right, both
 
-## 0/1 Knapsack (Dynamic Programming)
+## 0/1 Knapsack (Dynamic Programming) (07/04/25)
+
+- [X] [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) note: bottom up, try to find partition that equals sum(nums)//2
+
+- [X] [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) note: prefix sums + hashmap
+
+- [X] [Closest Subsequence Sum](https://leetcode.com/problems/closest-subsequence-sum/) note: meet in the middle, binary search latter half
+
+- [X] [Partition Array Into Two Arrays to Minimize Sum Difference](https://leetcode.com/problems/partition-array-into-two-arrays-to-minimize-sum-difference/) note: meet in the middle, target sum=total sum//2-left subset sum
+
+- [X] [Target Sum](https://leetcode.com/problems/target-sum/) note: bottom up, target=(total+target)/2
 
 ## Backtracking
 
