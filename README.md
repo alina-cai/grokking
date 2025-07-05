@@ -366,6 +366,18 @@
 
 - [X] [Target Sum](https://leetcode.com/problems/target-sum/) note: bottom up, target=(total+target)/2
 
+## Fibonacci Numbers (Dynamic Programming) (07/04/25)
+
+- [X] [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
+
+- [X] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+- [X] [Jump Game II](https://leetcode.com/problems/jump-game-ii/) note: greedy? update farthest idx to jump to every iteration, increment res if it's the last possible jump
+
+- [X] [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) note: think abt how to calculate dp
+
+- [X] [House Robber](https://leetcode.com/problems/house-robber/)
+
 ## Backtracking
 
 ## Trie
